@@ -31,7 +31,7 @@ npm install react-native-screens@~4.16.0
 
 ### 1️⃣ Clone the Repository
 ``` bash 
-git clone https://github.com/hafsalman/DrawerNavigation
+git clone https://github.com/hafsalman/StackedNavigation
 ```
 
 ### 2️⃣ Initialize Expo Project
@@ -44,7 +44,7 @@ npx create-expo-app StackNav --template expo-template-blank
 cd StackNav
 ```
 
-(Replace the default App.js with the cloned App.js and add the rest of the folders and ``` babel.config.js ```.)
+(Replace the default App.js with the cloned App.js)
 
 ### 4️⃣ Install Dependencies
 ``` bash

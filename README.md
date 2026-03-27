@@ -36,12 +36,12 @@ git clone https://github.com/hafsalman/DrawerNavigation
 
 ### 2️⃣ Initialize Expo Project
 ``` bash
-npx create-expo-app DrawerNav --template expo-template-blank
+npx create-expo-app StackNav --template expo-template-blank
 ```
 
 ### 3️⃣ Navigate to Project Folder
 ``` bash
-cd DrawerNav
+cd StackNav
 ```
 
 (Replace the default App.js with the cloned App.js and add the rest of the folders and ``` babel.config.js ```.)
